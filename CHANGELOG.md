@@ -1,5 +1,18 @@
 # Changelog
 
+### [1.2.1](https://www.github.com/wuruochong/nvidia-snatcher/compare/v1.2.0...v1.2.1) (2020-09-19)
+
+
+### Bug Fixes
+
+* adjusted time format based on suggestion ([9c43aac](https://www.github.com/wuruochong/nvidia-snatcher/commit/9c43aac133724f14dbc9f48cf73d6806acd8978c))
+* evga xc3 ultra link ([#56](https://www.github.com/wuruochong/nvidia-snatcher/issues/56)) ([d907092](https://www.github.com/wuruochong/nvidia-snatcher/commit/d907092b443b056605e09cb2ca3e94e6ca811d9e))
+* formatting ([72bd70d](https://www.github.com/wuruochong/nvidia-snatcher/commit/72bd70d77f5d4d04b3c16e806d52e30848c42849))
+* moved time code from index to logger ([1c74ea4](https://www.github.com/wuruochong/nvidia-snatcher/commit/1c74ea4423c1ad21a938908ee678a8f757a7c0dc))
+* screenshot size, add screenshot config setting ([#53](https://www.github.com/wuruochong/nvidia-snatcher/issues/53)) ([7cfc7c7](https://www.github.com/wuruochong/nvidia-snatcher/commit/7cfc7c74429c808fa14468cdd497eb9f9aeb922c))
+* sms carrier config, add google carrier ([#44](https://www.github.com/wuruochong/nvidia-snatcher/issues/44)) ([971fec2](https://www.github.com/wuruochong/nvidia-snatcher/commit/971fec20e441e2b12a38d5c8d17d2d4cb5e64d6b))
+* time now updates correctly ([4aa7848](https://www.github.com/wuruochong/nvidia-snatcher/commit/4aa7848b84159222edb002010b9dcc3fc46f6e76))
+
 ## [1.2.0](https://www.github.com/jef/nvidia-snatcher/compare/v1.1.0...v1.2.0) (2020-09-19)
 
 
